@@ -4,3 +4,5 @@ Git Squashing
 git rebase -i HEAD~3
 
 Git aquas explanation added to understand in detailed manner.
+
+Git fetch 
