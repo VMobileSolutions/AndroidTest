@@ -1,2 +1,4 @@
 Hello, Welcome to iOS,Android 
 Git Squashing
+
+git rebase -i 
